@@ -1,0 +1,22 @@
+name: integrated-non-integrated-env
+channels:
+  - defaults
+dependencies:
+  - python.app
+  - python=3.8
+  - plotly
+  - anaconda
+  - conda-env
+  - _ipyw_jlab_nb_ext_conf
+  - navigator-updater
+  - cython
+  - jupyterlab
+  - anaconda-navigator
+  - conda-build
+  - conda
+  - numpy
+  - ipywidgets
+  - conda-verify
+  - nodejs
+  - ipympl
+  - notebook
